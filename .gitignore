@@ -2,8 +2,8 @@
 *.o
 *.eep
 *.elf
-*.hex
 *.lss
+*.hex
 *.lst
 *.map
 *.sym
